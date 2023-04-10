@@ -1,0 +1,10 @@
+﻿  Permutations.cpp
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\Permutations\Permutations.cpp(37,27): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\Permutations\Permutations.cpp(38,23): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\Permutations\Permutations.cpp(39,13): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\Permutations\Permutations.cpp(39,29): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\Permutations\Permutations.cpp(40,32): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\Permutations\Permutations.cpp(41,32): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\Permutations\Permutations.cpp(45,16): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\Permutations\Permutations.cpp(22,8): warning C4101: 'x': unreferenced local variable
+  Permutations.vcxproj -> C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\Permutations\Debug\Permutations.exe

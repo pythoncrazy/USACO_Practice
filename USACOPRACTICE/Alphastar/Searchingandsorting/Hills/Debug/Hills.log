@@ -1,0 +1,3 @@
+﻿  Hills.cpp
+C:\Users\viksp\USACOPRACTICE\Alphastar\Searchingandsorting\Hills\Hills.cpp(29,44): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Hills.vcxproj -> C:\Users\viksp\USACOPRACTICE\Alphastar\Searchingandsorting\Hills\Debug\Hills.exe

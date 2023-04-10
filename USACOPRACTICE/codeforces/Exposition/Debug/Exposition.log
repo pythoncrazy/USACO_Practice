@@ -1,0 +1,4 @@
+﻿  Exposition.cpp
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\Exposition\Exposition.cpp(51,14): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\Exposition\Exposition.cpp(64,29): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+  Exposition.vcxproj -> C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\Exposition\Debug\Exposition.exe

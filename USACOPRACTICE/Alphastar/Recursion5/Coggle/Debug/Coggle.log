@@ -1,0 +1,4 @@
+﻿  Coggle.cpp
+C:\Users\viksp\USACOPRACTICE\Alphastar\Recursion5\Coggle\Coggle.cpp(43,11): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\viksp\USACOPRACTICE\Alphastar\Recursion5\Coggle\Coggle.cpp(72,23): warning C4018: '<': signed/unsigned mismatch
+  Coggle.vcxproj -> C:\Users\viksp\USACOPRACTICE\Alphastar\Recursion5\Coggle\Debug\Coggle.exe

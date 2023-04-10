@@ -1,0 +1,6 @@
+﻿  AllNdigitnumbers.cpp
+C:\Users\viksp\USACOPRACTICE\Alphastar\Recusion2\AllNdigitnumbers\AllNdigitnumbers\AllNdigitnumbers.cpp(18,23): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\viksp\USACOPRACTICE\Alphastar\Recusion2\AllNdigitnumbers\AllNdigitnumbers\AllNdigitnumbers.cpp(26,16): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\viksp\USACOPRACTICE\Alphastar\Recusion2\AllNdigitnumbers\AllNdigitnumbers\AllNdigitnumbers.cpp(30,11): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\USACOPRACTICE\Alphastar\Recusion2\AllNdigitnumbers\AllNdigitnumbers\AllNdigitnumbers.cpp(48,11): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+  AllNdigitnumbers.vcxproj -> C:\Users\viksp\USACOPRACTICE\Alphastar\Recusion2\AllNdigitnumbers\AllNdigitnumbers\Debug\AllNdigitnumbers.exe

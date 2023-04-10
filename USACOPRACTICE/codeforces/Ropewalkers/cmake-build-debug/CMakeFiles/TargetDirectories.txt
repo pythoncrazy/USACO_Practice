@@ -1,0 +1,3 @@
+C:/Users/viksp/.acmx/solutions/USACOPRACTICE/codeforces/Ropewalkers/cmake-build-debug/CMakeFiles/Ropewalkers.dir
+C:/Users/viksp/.acmx/solutions/USACOPRACTICE/codeforces/Ropewalkers/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/viksp/.acmx/solutions/USACOPRACTICE/codeforces/Ropewalkers/cmake-build-debug/CMakeFiles/rebuild_cache.dir

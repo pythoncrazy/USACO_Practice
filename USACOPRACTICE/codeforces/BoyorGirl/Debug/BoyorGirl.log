@@ -1,0 +1,3 @@
+﻿  BoyorGirl.cpp
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\BoyorGirl\BoyorGirl.cpp(47,21): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  BoyorGirl.vcxproj -> C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\BoyorGirl\Debug\BoyorGirl.exe

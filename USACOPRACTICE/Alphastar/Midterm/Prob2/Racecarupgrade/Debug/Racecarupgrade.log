@@ -1,0 +1,3 @@
+﻿  Racecarupgrade.cpp
+C:\Users\viksp\USACOPRACTICE\Alphastar\Midterm\Prob2\Racecarupgrade\Racecarupgrade.cpp(35,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Racecarupgrade.vcxproj -> C:\Users\viksp\USACOPRACTICE\Alphastar\Midterm\Prob2\Racecarupgrade\Debug\Racecarupgrade.exe

@@ -1,0 +1,4 @@
+﻿  Arcade Day.cpp
+C:\Users\viksp\USACOPRACTICE\Alphastar\Recursion5\Arcade Day\Arcade Day.cpp(25,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\viksp\USACOPRACTICE\Alphastar\Recursion5\Arcade Day\Arcade Day.cpp(36,23): warning C4018: '<': signed/unsigned mismatch
+  Arcade Day.vcxproj -> C:\Users\viksp\USACOPRACTICE\Alphastar\Recursion5\Arcade Day\Debug\Arcade Day.exe

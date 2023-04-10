@@ -1,0 +1,45 @@
+﻿  Isola.cpp
+C:\Users\viksp\USACOPRACTICE\ACSL\isola\Isola\Isola.cpp(56,18): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\USACOPRACTICE\ACSL\isola\Isola\Isola.cpp(56,26): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\USACOPRACTICE\ACSL\isola\Isola\Isola.cpp(57,33): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\USACOPRACTICE\ACSL\isola\Isola\Isola.cpp(57,41): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\USACOPRACTICE\ACSL\isola\Isola\Isola.cpp(72,18): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\USACOPRACTICE\ACSL\isola\Isola\Isola.cpp(72,26): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\USACOPRACTICE\ACSL\isola\Isola\Isola.cpp(73,33): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\USACOPRACTICE\ACSL\isola\Isola\Isola.cpp(73,41): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\USACOPRACTICE\ACSL\isola\Isola\Isola.cpp(88,18): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\USACOPRACTICE\ACSL\isola\Isola\Isola.cpp(88,26): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\USACOPRACTICE\ACSL\isola\Isola\Isola.cpp(89,33): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\USACOPRACTICE\ACSL\isola\Isola\Isola.cpp(89,41): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\USACOPRACTICE\ACSL\isola\Isola\Isola.cpp(105,18): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\USACOPRACTICE\ACSL\isola\Isola\Isola.cpp(105,26): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\USACOPRACTICE\ACSL\isola\Isola\Isola.cpp(106,33): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\USACOPRACTICE\ACSL\isola\Isola\Isola.cpp(106,41): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\USACOPRACTICE\ACSL\isola\Isola\Isola.cpp(130,23): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\viksp\USACOPRACTICE\ACSL\isola\Isola\Isola.cpp(131,15): warning C4244: 'argument': conversion from '_Ty2' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty2=__int64
+          ]
+C:\Users\viksp\USACOPRACTICE\ACSL\isola\Isola\Isola.cpp(131,29): warning C4244: 'argument': conversion from '_Ty1' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty1=__int64
+          ]
+C:\Users\viksp\USACOPRACTICE\ACSL\isola\Isola\Isola.cpp(133,23): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\viksp\USACOPRACTICE\ACSL\isola\Isola\Isola.cpp(137,27): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\viksp\USACOPRACTICE\ACSL\isola\Isola\Isola.cpp(138,19): warning C4244: 'argument': conversion from '_Ty2' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty2=__int64
+          ]
+C:\Users\viksp\USACOPRACTICE\ACSL\isola\Isola\Isola.cpp(138,33): warning C4244: 'argument': conversion from '_Ty1' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty1=__int64
+          ]
+C:\Users\viksp\USACOPRACTICE\ACSL\isola\Isola\Isola.cpp(149,26): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\viksp\USACOPRACTICE\ACSL\isola\Isola\Isola.cpp(154,27): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\viksp\USACOPRACTICE\ACSL\isola\Isola\Isola.cpp(159,24): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\viksp\USACOPRACTICE\ACSL\isola\Isola\Isola.cpp(164,26): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  Isola.vcxproj -> C:\Users\viksp\USACOPRACTICE\ACSL\isola\Isola\Debug\Isola.exe

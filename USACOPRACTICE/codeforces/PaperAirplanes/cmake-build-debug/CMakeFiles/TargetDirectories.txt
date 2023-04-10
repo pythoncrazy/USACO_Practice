@@ -1,0 +1,3 @@
+C:/Users/viksp/.acmx/solutions/USACOPRACTICE/codeforces/PaperAirplanes/cmake-build-debug/CMakeFiles/PaperAirplanes.dir
+C:/Users/viksp/.acmx/solutions/USACOPRACTICE/codeforces/PaperAirplanes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/viksp/.acmx/solutions/USACOPRACTICE/codeforces/PaperAirplanes/cmake-build-debug/CMakeFiles/rebuild_cache.dir

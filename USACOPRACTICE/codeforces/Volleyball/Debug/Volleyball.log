@@ -1,0 +1,4 @@
+﻿  Volleyball.cpp
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\Volleyball\Volleyball.cpp(47,13): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\Volleyball\Volleyball.cpp(76,12): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+  Volleyball.vcxproj -> C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\Volleyball\Debug\Volleyball.exe

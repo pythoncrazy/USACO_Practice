@@ -1,0 +1,4 @@
+﻿  Apartments.cpp
+C:\Users\viksp\USACOPRACTICE\book\Problems\4.5\Apartments\Apartments\Apartments.cpp(36,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\viksp\USACOPRACTICE\book\Problems\4.5\Apartments\Apartments\Apartments.cpp(41,6): warning C4101: 'a': unreferenced local variable
+  Apartments.vcxproj -> C:\Users\viksp\USACOPRACTICE\book\Problems\4.5\Apartments\Apartments\Debug\Apartments.exe

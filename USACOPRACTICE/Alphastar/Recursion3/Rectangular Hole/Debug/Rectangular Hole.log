@@ -1,0 +1,4 @@
+﻿  Rectangular Hole.cpp
+C:\Users\viksp\USACOPRACTICE\Alphastar\Recursion3\Rectangular Hole\Rectangular Hole.cpp(48,16): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\viksp\USACOPRACTICE\Alphastar\Recursion3\Rectangular Hole\Rectangular Hole.cpp(72,23): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+  Rectangular Hole.vcxproj -> C:\Users\viksp\USACOPRACTICE\Alphastar\Recursion3\Rectangular Hole\Debug\Rectangular Hole.exe

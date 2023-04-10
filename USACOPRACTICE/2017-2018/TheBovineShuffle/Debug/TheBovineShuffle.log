@@ -1,0 +1,8 @@
+﻿  TheBovineShuffle.cpp
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\2017-2018\TheBovineShuffle\TheBovineShuffle.cpp(53,18): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\2017-2018\TheBovineShuffle\TheBovineShuffle.cpp(54,12): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\2017-2018\TheBovineShuffle\TheBovineShuffle.cpp(55,10): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\2017-2018\TheBovineShuffle\TheBovineShuffle.cpp(56,16): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\2017-2018\TheBovineShuffle\TheBovineShuffle.cpp(58,15): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\2017-2018\TheBovineShuffle\TheBovineShuffle.cpp(59,23): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+  TheBovineShuffle.vcxproj -> C:\Users\viksp\.acmx\solutions\USACOPRACTICE\2017-2018\TheBovineShuffle\Debug\TheBovineShuffle.exe

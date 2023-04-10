@@ -1,0 +1,4 @@
+﻿  NextRound.cpp
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\NextRound\NextRound.cpp(42,10): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\NextRound\NextRound.cpp(46,20): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+  NextRound.vcxproj -> C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\NextRound\Debug\NextRound.exe

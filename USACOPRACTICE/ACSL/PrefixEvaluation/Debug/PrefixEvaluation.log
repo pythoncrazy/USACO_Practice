@@ -1,0 +1,23 @@
+﻿  PrefixEvaluation.cpp
+C:\Users\viksp\USACOPRACTICE\ACSL\PrefixEvaluation\PrefixEvaluation.cpp(32,14): warning C4244: 'initializing': conversion from '_Ty' to 'double', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+C:\Users\viksp\USACOPRACTICE\ACSL\PrefixEvaluation\PrefixEvaluation.cpp(34,14): warning C4244: 'initializing': conversion from '_Ty' to 'double', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+C:\Users\viksp\USACOPRACTICE\ACSL\PrefixEvaluation\PrefixEvaluation.cpp(36,14): warning C4244: 'initializing': conversion from '_Ty' to 'double', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+C:\Users\viksp\USACOPRACTICE\ACSL\PrefixEvaluation\PrefixEvaluation.cpp(40,19): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+C:\Users\viksp\USACOPRACTICE\ACSL\PrefixEvaluation\PrefixEvaluation.cpp(43,19): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+C:\Users\viksp\USACOPRACTICE\ACSL\PrefixEvaluation\PrefixEvaluation.cpp(46,19): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+C:\Users\viksp\USACOPRACTICE\ACSL\PrefixEvaluation\PrefixEvaluation.cpp(49,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\viksp\USACOPRACTICE\ACSL\PrefixEvaluation\PrefixEvaluation.cpp(49,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\viksp\USACOPRACTICE\ACSL\PrefixEvaluation\PrefixEvaluation.cpp(49,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  PrefixEvaluation.vcxproj -> C:\Users\viksp\USACOPRACTICE\ACSL\PrefixEvaluation\Debug\PrefixEvaluation.exe

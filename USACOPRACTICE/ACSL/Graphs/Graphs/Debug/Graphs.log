@@ -1,0 +1,8 @@
+﻿  Graphs.cpp
+C:\Users\viksp\USACOPRACTICE\ACSL\Graphs\Graphs\Graphs.cpp(63,15): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\USACOPRACTICE\ACSL\Graphs\Graphs\Graphs.cpp(63,20): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\USACOPRACTICE\ACSL\Graphs\Graphs\Graphs.cpp(69,23): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\USACOPRACTICE\ACSL\Graphs\Graphs\Graphs.cpp(70,23): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\USACOPRACTICE\ACSL\Graphs\Graphs\Graphs.cpp(70,55): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\USACOPRACTICE\ACSL\Graphs\Graphs\Graphs.cpp(82,19): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+  Graphs.vcxproj -> C:\Users\viksp\USACOPRACTICE\ACSL\Graphs\Graphs\Debug\Graphs.exe

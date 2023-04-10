@@ -1,0 +1,4 @@
+﻿  Subsequencesummingtosevens.cpp
+C:\Users\viksp\USACOPRACTICE\2015-2016\Subsequencessummingtosevens\Subsequencesummingtosevens\Subsequencesummingtosevens.cpp(44,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\viksp\USACOPRACTICE\2015-2016\Subsequencessummingtosevens\Subsequencesummingtosevens\Subsequencesummingtosevens.cpp(45,29): warning C4018: '<': signed/unsigned mismatch
+  Subsequencesummingtosevens.vcxproj -> C:\Users\viksp\USACOPRACTICE\2015-2016\Subsequencessummingtosevens\Subsequencesummingtosevens\Debug\Subsequencesummingtosevens.exe

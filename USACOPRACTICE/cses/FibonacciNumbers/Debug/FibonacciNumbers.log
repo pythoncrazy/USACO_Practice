@@ -1,0 +1,5 @@
+﻿  FibonacciNumbers.cpp
+C:\Users\viksp\USACOPRACTICE\cses\FibonacciNumbers\FibonacciNumbers.cpp(45,23): warning C4244: 'argument': conversion from 'unsigned __int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\USACOPRACTICE\cses\FibonacciNumbers\FibonacciNumbers.cpp(45,44): warning C4244: 'argument': conversion from 'unsigned __int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\USACOPRACTICE\cses\FibonacciNumbers\FibonacciNumbers.cpp(48,21): warning C4244: 'argument': conversion from 'unsigned __int64' to 'const unsigned int', possible loss of data
+  FibonacciNumbers.vcxproj -> C:\Users\viksp\USACOPRACTICE\cses\FibonacciNumbers\Debug\FibonacciNumbers.exe

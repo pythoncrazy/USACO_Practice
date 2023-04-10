@@ -1,0 +1,3 @@
+﻿  Convention.cpp
+C:\Users\viksp\USACOPRACTICE\2018-2019\Convention\Convention.cpp(73,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Convention.vcxproj -> C:\Users\viksp\USACOPRACTICE\2018-2019\Convention\Debug\Convention.exe

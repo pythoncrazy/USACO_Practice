@@ -1,0 +1,3 @@
+﻿  EdgyTrees.cpp
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\EdgyTrees\EdgyTrees.cpp(12,20): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+  EdgyTrees.vcxproj -> C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\EdgyTrees\Debug\EdgyTrees.exe

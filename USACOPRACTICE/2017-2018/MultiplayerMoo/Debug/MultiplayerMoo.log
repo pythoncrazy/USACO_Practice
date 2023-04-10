@@ -1,0 +1,3 @@
+﻿  MultiplayerMoo.cpp
+c:\users\viksp\.acmx\solutions\usacopractice\2017-2018\multiplayermoo\multiplayermoo.cpp(82): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  MultiplayerMoo.vcxproj -> C:\Users\viksp\.acmx\solutions\USACOPRACTICE\2017-2018\MultiplayerMoo\Debug\MultiplayerMoo.exe

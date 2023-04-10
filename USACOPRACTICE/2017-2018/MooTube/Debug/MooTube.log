@@ -1,0 +1,10 @@
+﻿  MooTube.cpp
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\2017-2018\MooTube\MooTube.cpp(19,10): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\2017-2018\MooTube\MooTube.cpp(20,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\2017-2018\MooTube\MooTube.cpp(21,29): warning C4244: 'argument': conversion from '_Ty1' to 'unsigned int', possible loss of data
+          with
+          [
+              _Ty1=__int64
+          ]
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\2017-2018\MooTube\MooTube.cpp(44,24): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+  MooTube.vcxproj -> C:\Users\viksp\.acmx\solutions\USACOPRACTICE\2017-2018\MooTube\Debug\MooTube.exe

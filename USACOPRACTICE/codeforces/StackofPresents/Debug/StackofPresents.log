@@ -1,0 +1,20 @@
+﻿  StackofPresents.cpp
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\StackofPresents\StackofPresents.cpp(39,12): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\StackofPresents\StackofPresents.cpp(40,13): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\StackofPresents\StackofPresents.cpp(45,18): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\StackofPresents\StackofPresents.cpp(53,23): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\StackofPresents\StackofPresents.cpp(54,35): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\StackofPresents\StackofPresents.cpp(55,34): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+  StackofPresents.vcxproj -> C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\StackofPresents\Debug\StackofPresents.exe

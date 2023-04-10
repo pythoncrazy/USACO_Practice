@@ -1,0 +1,11 @@
+# ninja log v5
+0	540	6955374033977673	CMakeFiles/PaintingTheArrayI.dir/main.cpp.obj	a32029bdc923195c
+542	673	6955374035228759	PaintingTheArrayI.exe	885a35fe4535d0d6
+3	537	6955374873532807	CMakeFiles/PaintingTheArrayI.dir/main.cpp.obj	a32029bdc923195c
+537	619	6955374874339774	PaintingTheArrayI.exe	885a35fe4535d0d6
+3	534	6955375697970816	CMakeFiles/PaintingTheArrayI.dir/main.cpp.obj	a32029bdc923195c
+534	619	6955375698792515	PaintingTheArrayI.exe	885a35fe4535d0d6
+3	528	6955376039129541	CMakeFiles/PaintingTheArrayI.dir/main.cpp.obj	a32029bdc923195c
+528	626	6955376040024611	PaintingTheArrayI.exe	885a35fe4535d0d6
+2	533	6955376532199042	CMakeFiles/PaintingTheArrayI.dir/main.cpp.obj	a32029bdc923195c
+534	640	6955376533179343	PaintingTheArrayI.exe	885a35fe4535d0d6

@@ -1,0 +1,5 @@
+﻿  Badge.cpp
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\Badge\Badge.cpp(32,23): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\Badge\Badge.cpp(33,20): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\Badge\Badge.cpp(34,28): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+  Badge.vcxproj -> C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\Badge\Debug\Badge.exe

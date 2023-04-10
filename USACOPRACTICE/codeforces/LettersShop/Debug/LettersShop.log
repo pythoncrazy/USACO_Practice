@@ -1,0 +1,7 @@
+﻿  LettersShop.cpp
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\LettersShop\LettersShop.cpp(60,46): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+  LettersShop.vcxproj -> C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\LettersShop\Debug\LettersShop.exe

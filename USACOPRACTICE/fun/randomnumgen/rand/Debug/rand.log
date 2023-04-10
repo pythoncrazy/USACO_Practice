@@ -1,0 +1,5 @@
+﻿  rand.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\random(2865,5): error C2338: invalid template argument for normal_distribution: N4659 29.6.1.1 [rand.req.genl]/1d requires one of float, double, or long double
+C:\Users\viksp\USACOPRACTICE\fun\randomnumgen\rand\rand.cpp(6): message : see reference to class template instantiation 'std::normal_distribution<int>' being compiled
+C:\Users\viksp\USACOPRACTICE\fun\randomnumgen\rand\rand.cpp(14,46): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\viksp\USACOPRACTICE\fun\randomnumgen\rand\rand.cpp(16,23): warning C4018: '<': signed/unsigned mismatch

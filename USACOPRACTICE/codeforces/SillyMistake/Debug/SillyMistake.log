@@ -1,0 +1,30 @@
+﻿  SillyMistake.cpp
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\SillyMistake\SillyMistake.cpp(24,13): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\SillyMistake\SillyMistake.cpp(41,25): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\SillyMistake\SillyMistake.cpp(48,35): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\SillyMistake\SillyMistake.cpp(48,29): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\SillyMistake\SillyMistake.cpp(49,35): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\SillyMistake\SillyMistake.cpp(49,29): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\SillyMistake\SillyMistake.cpp(51,28): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\SillyMistake\SillyMistake.cpp(58,25): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\SillyMistake\SillyMistake.cpp(63,25): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\SillyMistake\SillyMistake.cpp(68,29): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\SillyMistake\SillyMistake.cpp(75,32): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\SillyMistake\SillyMistake.cpp(76,32): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\SillyMistake\SillyMistake.cpp(81,29): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\SillyMistake\SillyMistake.cpp(82,29): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\SillyMistake\SillyMistake.cpp(86,21): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\SillyMistake\SillyMistake.cpp(94,26): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  SillyMistake.vcxproj -> C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\SillyMistake\Debug\SillyMistake.exe

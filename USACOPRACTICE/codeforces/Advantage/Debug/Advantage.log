@@ -1,0 +1,7 @@
+﻿  Advantage.cpp
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\Advantage\Advantage.cpp(55,13): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+  Advantage.vcxproj -> C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\Advantage\Debug\Advantage.exe

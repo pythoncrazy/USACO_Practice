@@ -1,0 +1,14 @@
+﻿  6121.cpp
+c:\users\viksp\.acmx\solutions\usacopractice\leetcode\6121\6121.cpp(49): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+c:\users\viksp\.acmx\solutions\usacopractice\leetcode\6121\6121.cpp(50): warning C4018: '<': signed/unsigned mismatch
+c:\users\viksp\.acmx\solutions\usacopractice\leetcode\6121\6121.cpp(55): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+c:\users\viksp\.acmx\solutions\usacopractice\leetcode\6121\6121.cpp(55): warning C4244: 'argument': conversion from '_Ty2' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty2=__int64
+          ]
+          and
+          [
+              _Ty=int
+          ]
+  6121.vcxproj -> C:\Users\viksp\.acmx\solutions\USACOPRACTICE\leetcode\6121\Debug\6121.exe

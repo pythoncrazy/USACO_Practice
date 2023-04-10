@@ -1,0 +1,3 @@
+﻿  SocialDistancing.cpp
+c:\users\viksp\.acmx\solutions\usacopractice\2019-2020\socialdistancing\socialdistancing\socialdistancing.cpp(42): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+  SocialDistancing.vcxproj -> C:\Users\viksp\.acmx\solutions\USACOPRACTICE\2019-2020\SocialDistancing\Debug\SocialDistancing.exe

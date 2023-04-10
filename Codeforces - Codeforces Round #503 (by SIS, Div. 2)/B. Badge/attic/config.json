@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\viksp\\.acmx\\solutions\\Codeforces - Codeforces Round #503 (by SIS, Div. 2)\\B. Badge\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Badge",
+      "group": "Codeforces - Codeforces Round #503 (by SIS, Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/1020/B",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

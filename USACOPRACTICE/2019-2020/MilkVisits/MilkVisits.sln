@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2017
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MilkVisits", "MilkVisits\MilkVisits.vcxproj", "{BAE19D9F-7ECB-465B-826B-141288201905}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAE19D9F-7ECB-465B-826B-141288201905}.Debug|x64.ActiveCfg = Debug|x64
+		{BAE19D9F-7ECB-465B-826B-141288201905}.Debug|x64.Build.0 = Debug|x64
+		{BAE19D9F-7ECB-465B-826B-141288201905}.Debug|x86.ActiveCfg = Debug|Win32
+		{BAE19D9F-7ECB-465B-826B-141288201905}.Debug|x86.Build.0 = Debug|Win32
+		{BAE19D9F-7ECB-465B-826B-141288201905}.Release|x64.ActiveCfg = Release|x64
+		{BAE19D9F-7ECB-465B-826B-141288201905}.Release|x64.Build.0 = Release|x64
+		{BAE19D9F-7ECB-465B-826B-141288201905}.Release|x86.ActiveCfg = Release|Win32
+		{BAE19D9F-7ECB-465B-826B-141288201905}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E84A9EA3-F63E-47C4-9AC4-260041FD720D}
+	EndGlobalSection
+EndGlobal

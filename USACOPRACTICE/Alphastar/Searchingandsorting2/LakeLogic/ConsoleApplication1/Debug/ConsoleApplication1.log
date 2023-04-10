@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\viksp\USACOPRACTICE\Alphastar\Searchingandsorting2\LakeLogic\ConsoleApplication1\ConsoleApplication1.cpp(31,23): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\viksp\USACOPRACTICE\Alphastar\Searchingandsorting2\LakeLogic\ConsoleApplication1\ConsoleApplication1.cpp(31,41): warning C4804: '<': unsafe use of type 'bool' in operation
+  ConsoleApplication1.vcxproj -> C:\Users\viksp\USACOPRACTICE\Alphastar\Searchingandsorting2\LakeLogic\ConsoleApplication1\Debug\ConsoleApplication1.exe

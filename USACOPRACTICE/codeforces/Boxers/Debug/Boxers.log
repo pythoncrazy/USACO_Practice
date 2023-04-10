@@ -1,0 +1,7 @@
+﻿  Boxers.cpp
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\Boxers\Boxers.cpp(22,15): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\Boxers\Boxers.cpp(29,31): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\Boxers\Boxers.cpp(34,32): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\Boxers\Boxers.cpp(39,37): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\Boxers\Boxers.cpp(43,38): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+  Boxers.vcxproj -> C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\Boxers\Debug\Boxers.exe

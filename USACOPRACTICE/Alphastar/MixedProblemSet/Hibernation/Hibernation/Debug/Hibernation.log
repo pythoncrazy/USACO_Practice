@@ -1,0 +1,8 @@
+﻿  Hibernation.cpp
+C:\Users\viksp\USACOPRACTICE\Alphastar\MixedProblemSet\Hibernation\Hibernation\Hibernation.cpp(24,16): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+C:\Users\viksp\USACOPRACTICE\Alphastar\MixedProblemSet\Hibernation\Hibernation\Hibernation.cpp(40,16): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+  Hibernation.vcxproj -> C:\Users\viksp\USACOPRACTICE\Alphastar\MixedProblemSet\Hibernation\Hibernation\Debug\Hibernation.exe

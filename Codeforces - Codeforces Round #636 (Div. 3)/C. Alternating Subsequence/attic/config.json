@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\viksp\\.acmx\\solutions\\Codeforces - Codeforces Round #636 (Div. 3)\\C. Alternating Subsequence\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Alternating Subsequence",
+      "group": "Codeforces - Codeforces Round #636 (Div. 3)",
+      "url": "https://codeforces.com/problemset/problem/1343/C",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

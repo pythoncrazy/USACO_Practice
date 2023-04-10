@@ -1,0 +1,5 @@
+﻿  AlternatingSubsequence.cpp
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\AlternatingSubsequence\AlternatingSubsequence.cpp(29,25): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\AlternatingSubsequence\AlternatingSubsequence.cpp(30,21): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\AlternatingSubsequence\AlternatingSubsequence.cpp(41,23): warning C4018: '<': signed/unsigned mismatch
+  AlternatingSubsequence.vcxproj -> C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\AlternatingSubsequence\Debug\AlternatingSubsequence.exe

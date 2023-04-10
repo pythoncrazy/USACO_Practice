@@ -1,0 +1,8 @@
+﻿  MilkScheduling.cpp
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\2013-2013\MilkScheduling\MilkScheduling.cpp(46,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\2013-2013\MilkScheduling\MilkScheduling.cpp(47,51): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+  MilkScheduling.vcxproj -> C:\Users\viksp\.acmx\solutions\USACOPRACTICE\2013-2013\MilkScheduling\Debug\MilkScheduling.exe

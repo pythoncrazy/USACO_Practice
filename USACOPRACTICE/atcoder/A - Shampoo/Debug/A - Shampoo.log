@@ -1,0 +1,7 @@
+﻿  A - Shampoo.cpp
+C:\Users\viksp\USACOPRACTICE\atcoder\A - Shampoo\A - Shampoo.cpp(47,21): warning C4244: '-=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+  A - Shampoo.vcxproj -> C:\Users\viksp\USACOPRACTICE\atcoder\A - Shampoo\Debug\A - Shampoo.exe

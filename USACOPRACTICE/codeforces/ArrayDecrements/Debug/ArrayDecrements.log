@@ -1,0 +1,3 @@
+﻿  ArrayDecrements.cpp
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\ArrayDecrements\ArrayDecrements.cpp(38,10): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+  ArrayDecrements.vcxproj -> C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\ArrayDecrements\Debug\ArrayDecrements.exe

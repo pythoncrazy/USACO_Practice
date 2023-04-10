@@ -1,0 +1,24 @@
+﻿  Prob1.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xutility(5301,21): error C2677: binary '==': no global operator found which takes type 'const _Ty' (or there is no acceptable conversion)
+          with
+          [
+              _Ty=std::vector<int,std::allocator<int>>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xutility(5336): message : see reference to function template instantiation '_InIt std::_Find_unchecked1<_InIt,_Ty>(_InIt,const _InIt,const _Ty &,std::false_type)' being compiled
+          with
+          [
+              _InIt=int *,
+              _Ty=std::vector<int,std::allocator<int>>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xutility(5342): message : see reference to function template instantiation '_InIt std::_Find_unchecked<int*,_Ty>(const _InIt,const _InIt,const _Ty &)' being compiled
+          with
+          [
+              _InIt=int *,
+              _Ty=std::vector<int,std::allocator<int>>
+          ]
+C:\Users\viksp\USACOPRACTICE\leetcode\6020\Prob1\Prob1.cpp(49): message : see reference to function template instantiation '_InIt std::find<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,std::vector<_Ty,std::allocator<_Ty>>>(_InIt,const _InIt,const std::vector<_Ty,std::allocator<_Ty>> &)' being compiled
+          with
+          [
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<int>>>,
+              _Ty=int
+          ]

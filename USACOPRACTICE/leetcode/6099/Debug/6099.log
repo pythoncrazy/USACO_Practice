@@ -1,0 +1,5 @@
+﻿  6099.cpp
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\leetcode\6099\6099.cpp(47,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\leetcode\6099\6099.cpp(52,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\leetcode\6099\6099.cpp(67,46): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+  6099.vcxproj -> C:\Users\viksp\.acmx\solutions\USACOPRACTICE\leetcode\6099\Debug\6099.exe

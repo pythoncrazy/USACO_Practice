@@ -1,0 +1,9 @@
+﻿  CountingKangaroosisFun.cpp
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\CountingKangaroosisFun\CountingKangaroosisFun.cpp(41,10): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\CountingKangaroosisFun\CountingKangaroosisFun.cpp(56,38): warning C4244: 'argument': conversion from '__int64' to 'const int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\CountingKangaroosisFun\CountingKangaroosisFun.cpp(57,45): warning C4244: 'argument': conversion from '__int64' to 'const int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\CountingKangaroosisFun\CountingKangaroosisFun.cpp(58,41): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\CountingKangaroosisFun\CountingKangaroosisFun.cpp(60,15): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\CountingKangaroosisFun\CountingKangaroosisFun.cpp(61,49): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\CountingKangaroosisFun\CountingKangaroosisFun.cpp(63,15): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+  CountingKangaroosisFun.vcxproj -> C:\Users\viksp\.acmx\solutions\USACOPRACTICE\codeforces\CountingKangaroosisFun\Debug\CountingKangaroosisFun.exe

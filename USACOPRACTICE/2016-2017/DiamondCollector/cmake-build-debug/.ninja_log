@@ -1,0 +1,11 @@
+# ninja log v5
+0	1626	6988154926977432	CMakeFiles/DiamondCollector.dir/main.cpp.obj	ac26bd2b0ff794eb
+1628	1816	6988154928842981	DiamondCollector.exe	c314acb26d89709c
+3	818	6988155332920320	CMakeFiles/DiamondCollector.dir/main.cpp.obj	ac26bd2b0ff794eb
+818	896	6988155333680622	DiamondCollector.exe	c314acb26d89709c
+2	977	6988166130283760	CMakeFiles/DiamondCollector.dir/main.cpp.obj	ac26bd2b0ff794eb
+978	1056	6988166131060554	DiamondCollector.exe	c314acb26d89709c
+4	1015	6988166353031456	CMakeFiles/DiamondCollector.dir/main.cpp.obj	ac26bd2b0ff794eb
+1015	1094	6988166353791433	DiamondCollector.exe	c314acb26d89709c
+4	808	6988167896291787	CMakeFiles/DiamondCollector.dir/main.cpp.obj	ac26bd2b0ff794eb
+809	888	6988167897061839	DiamondCollector.exe	c314acb26d89709c

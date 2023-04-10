@@ -1,0 +1,4 @@
+﻿  FerrisWheel.cpp
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\cses\FerrisWheel\FerrisWheel.cpp(52,10): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\viksp\.acmx\solutions\USACOPRACTICE\cses\FerrisWheel\FerrisWheel.cpp(52,27): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+  FerrisWheel.vcxproj -> C:\Users\viksp\.acmx\solutions\USACOPRACTICE\cses\FerrisWheel\Debug\FerrisWheel.exe

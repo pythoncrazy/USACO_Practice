@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\viksp\\.acmx\\solutions\\Codeforces - Codeforces Round #545 (Div. 2)\\A. Sushi for Two\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Sushi for Two",
+      "group": "Codeforces - Codeforces Round #545 (Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/1138/A",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

@@ -1,0 +1,3 @@
+C:/Users/viksp/.acmx/solutions/USACOPRACTICE/codeforces/HitTheLottery/cmake-build-debug/CMakeFiles/HitTheLottery.dir
+C:/Users/viksp/.acmx/solutions/USACOPRACTICE/codeforces/HitTheLottery/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/viksp/.acmx/solutions/USACOPRACTICE/codeforces/HitTheLottery/cmake-build-debug/CMakeFiles/rebuild_cache.dir

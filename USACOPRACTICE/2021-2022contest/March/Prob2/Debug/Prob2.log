@@ -1,0 +1,3 @@
+﻿  Prob2.cpp
+C:\Users\viksp\USACOPRACTICE\2021-2022contest\March\Prob2\Prob2.cpp(46,45): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+  Prob2.vcxproj -> C:\Users\viksp\USACOPRACTICE\2021-2022contest\March\Prob2\Debug\Prob2.exe

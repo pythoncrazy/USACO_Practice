@@ -1,0 +1,24 @@
+﻿  Prob2.cpp
+C:\Users\viksp\USACOPRACTICE\2021-2022contest\Febuaray\Prob2\Prob2\Prob2.cpp(19,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\viksp\USACOPRACTICE\2021-2022contest\Febuaray\Prob2\Prob2\Prob2.cpp(20,22): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+C:\Users\viksp\USACOPRACTICE\2021-2022contest\Febuaray\Prob2\Prob2\Prob2.cpp(23,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\viksp\USACOPRACTICE\2021-2022contest\Febuaray\Prob2\Prob2\Prob2.cpp(24,32): warning C4244: 'argument': conversion from '_Ty' to 'const _Kty', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+          and
+          [
+              _Kty=int
+          ]
+C:\Users\viksp\USACOPRACTICE\2021-2022contest\Febuaray\Prob2\Prob2\Prob2.cpp(26,45): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+C:\Users\viksp\USACOPRACTICE\2021-2022contest\Febuaray\Prob2\Prob2\Prob2.cpp(33,23): warning C4018: '<': signed/unsigned mismatch
+  Prob2.vcxproj -> C:\Users\viksp\USACOPRACTICE\2021-2022contest\Febuaray\Prob2\Prob2\Debug\Prob2.exe
